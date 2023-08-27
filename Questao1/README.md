@@ -1,0 +1,2 @@
+# Aplicativo de Vendas para Empresa X:
+Um aplicativo de vendas para a Empresa X que oferece descontos progressivos com base na quantidade de produtos comprados. Utilizei Python para calcular o valor total com desconto e exibi-lo ao usuário. Implementei estruturas condicionais para aplicar os diferentes descontos com base nas quantidades. Este projeto demonstra minha habilidade em lógica de programação e manipulação de estruturas de controle em Python.

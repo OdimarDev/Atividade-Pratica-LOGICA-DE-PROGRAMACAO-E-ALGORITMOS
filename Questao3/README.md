@@ -1,0 +1,2 @@
+# Sistema de Pedidos de Feijoada:
+Um sistema de pedidos para um restaurante que serve feijoada. Usei Python para criar funções que capturam o volume, a opção da feijoada e os acompanhamentos escolhidos pelo cliente. Implementei tratamento de erros para garantir entradas válidas. O sistema calcula o valor total do pedido com base em fórmulas específicas. Esse projeto ressalta minha habilidade em criar sistemas interativos e aplicar lógica complexa.
